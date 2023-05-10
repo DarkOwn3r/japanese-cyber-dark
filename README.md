@@ -1,5 +1,7 @@
 # YAKUZA-CODER-THEME  README
 
+![GitHub followers](https://img.shields.io/github/followers/DarkOwn3r?style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/DarkOwn3r?style=plastic) 
+
 ## **Work in Progress** 
 
 This is a personal project which started for fun.
