@@ -1,0 +1,21 @@
+{
+  "name": "yakuza-coder-dark",
+  "displayName": "Yakuza Coder Dark",
+  "description": "DarkOwn3r's Personal Theme inspired by the Japanese culture and tattoo style.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Yakuza Coder Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Yakuza Coder Dark-color-theme.json"
+      }
+    ]
+  }
+}
