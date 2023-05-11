@@ -1,20 +1,33 @@
 {
-  "name": "yakuza-coder-dark",
-  "displayName": "Yakuza Coder Dark",
-  "description": "DarkOwn3r's Personal Theme inspired by the Japanese culture and tattoo style.",
-  "version": "0.0.1",
+  "name": "japanese-cyber-dark",
+  "displayName": "Japanese Cyber Dark Theme",
+  "description": "A VSCode theme inspired by retro/cyber/synth-wave and japanese aesthetics.",
+  "version": "1.0",
+  "publisher": "DarkOwn3r",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DarkOwn3r/japanese-cyber-dark"
+  },
   "engines": {
     "vscode": "^1.78.0"
   },
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "theme",
+    "cyber",
+    "japanese",
+    "aesthetics",
+    "dark",
+    "DarkOwn3r"
+  ],
   "contributes": {
     "themes": [
       {
-        "label": "Yakuza Coder Dark",
+        "label": "Japanese Cyber Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/Yakuza Coder Dark-color-theme.json"
+        "path": "./themes/Japanese Cyber Dark-color-theme.json"
       }
     ]
   }
