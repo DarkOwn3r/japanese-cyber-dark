@@ -2,7 +2,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/DarkOwn3r?style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/DarkOwn3r?style=plastic) 
 
-## **V1.0.2 RELEASED** 
+## **V1.0.3 RELEASED** 
 
 This is a personal project which started for fun.
 
