@@ -2,7 +2,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/DarkOwn3r?style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/DarkOwn3r?style=plastic) 
 
-## **V1.0 RELEASED** 
+## **V1.0.2 RELEASED** 
 
 This is a personal project which started for fun.
 
@@ -15,7 +15,7 @@ This is my first try doing this so... Let's see what happens. If you like it jus
 
 # Screenshots
 
-![Sample Screenshot](https://github.com/DarkOwn3r/japanese-cyber-dark/blob/main/v1.0_palette%20.PNG)
+![Sample Screenshot](https://raw.githubusercontent.com/DarkOwn3r/japanese-cyber-dark/main/v1.0_palette%20.PNG)
 ## For more information
 
 * [Color Reference Tool](https://coolors.co/)
