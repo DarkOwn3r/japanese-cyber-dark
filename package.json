@@ -4,7 +4,7 @@
   "description": "A VSCode theme inspired by retro/cyber/synth-wave and japanese aesthetics.",
   "version": "1.0.4",
   "publisher": "DarkOwn3r",
-  "icon": "themes/icon.png",
+  "icon": "/icon .png",
   "repository": {
     "type": "git",
     "url": "https://github.com/DarkOwn3r/japanese-cyber-dark"
