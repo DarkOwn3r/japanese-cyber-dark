@@ -1,5 +1,5 @@
 {
-  "name": "Japanese-Cyber Dark",
+  "name": "Japanese Cyber Dark",
     "type": "dark",
     "colors": {
       "activityBar.background": "#000000",
@@ -797,3 +797,5 @@
       }
     ]
 }
+
+// powered by DarkOwn3r
