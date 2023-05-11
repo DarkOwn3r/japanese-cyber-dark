@@ -1,4 +1,4 @@
-# JAPANESE-CYBER-THEME  README
+# JAPANESE-CYBER DARK THEME  README
 
 ![GitHub followers](https://img.shields.io/github/followers/DarkOwn3r?style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/DarkOwn3r?style=plastic) 
 
