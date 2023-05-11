@@ -13,8 +13,7 @@ This is my first try doing this so... Let's see what happens. If you like it jus
 
 # Screenshots
 
-![Sample Screenshot](https://github.com/DarkOwn3r/yakuza-coder-dark/blob/main/v0.0.1_palette%20.PNG)
-
+![Sample Screenshot](https://github.com/DarkOwn3r/yakuza-coder-dark/blob/main/v1.0_palette%20.PNG)
 ## For more information
 
 * [Color Reference Tool](https://coolors.co/)
