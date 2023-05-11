@@ -3,7 +3,7 @@
   "displayName": "Japanese Cyber Dark Theme",
   "description": "A VSCode theme inspired by retro/cyber/synth-wave and japanese aesthetics.",
   "version": "1.0.3",
-  "icon": "icon.png",
+  "icon": "/themes/icon .png",
   "publisher": "DarkOwn3r",
   "repository": {
     "type": "git",
